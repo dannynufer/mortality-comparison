@@ -8,7 +8,7 @@ The analysis was done in R using the tidyverse, with visualizations comparing:
 
 ---
 
-## 📊 Visual Outputs
+## Visual Outputs
 
 ### Probability of Death by Age (`qₓ`)
 - Log-scaled line chart by country and gender  
@@ -20,7 +20,7 @@ The analysis was done in R using the tidyverse, with visualizations comparing:
 
 ---
 
-## 🧠 What I Learned
+## What I Learned
 
 - Reading and wrangling raw period life tables from `.txt` files
 - Using tidyverse pipelines to filter, mutate, and bind large datasets
@@ -28,7 +28,7 @@ The analysis was done in R using the tidyverse, with visualizations comparing:
 
 ---
 
-## 🛠️ Tools Used
+## Tools Used
 
 - **Language**: R
 - **Libraries**: `tidyverse`, `ggplot2`
@@ -36,7 +36,7 @@ The analysis was done in R using the tidyverse, with visualizations comparing:
 
 ---
 
-## 📎 Notes
+## Notes
 
 - All data is publicly accessible and sourced from mortality.org
 - Charts use a transparent background with white text for dark-site embedding. (So try dark mode if you cant see them)
